@@ -1,0 +1,17 @@
+p{
+    font-size: 22px;
+}
+.flags{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.flags img{
+    width: 100px;
+}
+.flags select{
+    width: 100%;
+    border: none;
+    outline: none;
+}
